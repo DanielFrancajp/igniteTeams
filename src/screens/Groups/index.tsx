@@ -5,7 +5,7 @@ import { FlatList } from 'react-native';
 import { Header } from '@components/Header';
 import { Highlight } from '@components/Highlight';
 import { GroupCard } from '@components/GroupCard';
-import { ListEmpety } from '@screens/ListEmpety';
+import { ListEmpety } from '@components/ListEmpety';
 import { Button } from '@components/Button';
 
 import { Container } from './styles';
